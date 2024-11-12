@@ -1,0 +1,37 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executable files
+*.out
+*.exe
+a.out
+
+# Build directories
+build/
+bin/
+target/
+
+# Dependency directories
+*.d
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.bak
+*.tmp
+
+# Makefile or other generated files
+Makefile
+Makefile.dep
